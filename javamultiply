@@ -4,6 +4,7 @@ function multiply(a, b) {
 
 let num1 = 5;
 let num2 = 7;
+# echo "multiply of 2 numbers"
 
 console.log("Result:", multiply(num1, num2));
 
